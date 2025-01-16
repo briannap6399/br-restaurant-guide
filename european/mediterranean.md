@@ -2,8 +2,8 @@
 ## Mediterranean
 ---
 Select a restaurant:
-## [Le Sajj](#)
-## [Tanoreen](#)
+## [Le Sajj](https://lesajj.com/)
+## [Tanoreen](https://tanoreen.com/)
 ---
 [Back to European](european.md)
 [Start Over](../home.md)
